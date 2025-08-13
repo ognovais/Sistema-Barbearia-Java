@@ -1,51 +1,69 @@
-🪒 Sistema de Barbearia em Java
-📌 Sobre o projeto
-Sistema de agendamento e gerenciamento de serviços para barbearias, desenvolvido em Java como prática de Programação Orientada a Objetos (POO).
-O projeto inclui autenticação de barbeiros, cadastro de clientes, agendamentos e controle de serviços.
+# 💈 Sistema de Agendamento para Barbearia
+Um sistema desenvolvido em Java para gerenciar agendamentos de clientes, autenticar barbeiros e permitir edição de serviços.
+Esse projeto foi feito como prática de Programação Orientada a Objetos (POO), reforçando conceitos como encapsulamento, relacionamento entre classes e menus interativos.
 
-🚀 Funcionalidades
-Login para barbeiros com verificação de usuário e senha.
+## 🚀 Funcionalidades
+### 🔐 Login de barbeiro com autenticação de usuário e senha.
 
-Cadastro de clientes.
+### 📅 Cadastro de agendamentos para clientes.
 
-Cadastro de serviços (com valor e descrição).
+### 📋 Visualização de agendamentos do barbeiro logado.
 
-Agendamento de horários.
+### ✏️ Edição de serviços disponíveis.
 
-Visualização de agendamentos.
+## 🛠️ Tecnologias utilizadas
+### ☕ Java (POO)
 
-Edição de serviços.
+### 📂 Coleções (ArrayList)
 
-🛠️ Tecnologias utilizadas
-Java (console)
+### 🖥️ Interação por terminal
 
-Programação Orientada a Objetos (POO)
+### 🔄 Laços e estruturas condicionais
 
-Estruturas de dados básicas (listas, loops e condicionais)
+## 📸 Demonstração
+### Menu Principal
+<img width="354" height="175" alt="Menu principal" src="https://github.com/user-attachments/assets/0cc67911-e4a7-4ae6-9e5b-c693d7703929" />
 
-📸 Demonstração
-(Aqui você coloca prints do terminal mostrando o login, menu e agendamento funcionando.)
 
-▶️ Como executar
+### Horários
+<img width="449" height="264" alt="Horarios" src="https://github.com/user-attachments/assets/64ff73cc-0f04-4f8e-b168-9f76d949aa30" />
+
+
+### Agendamento
+<img width="337" height="96" alt="Agendamento" src="https://github.com/user-attachments/assets/1afcf6f4-bff8-4cd1-b8a2-414c9dfabb10" />
+
+
+### Lista de serviços
+<img width="253" height="150" alt="Serviços" src="https://github.com/user-attachments/assets/b6858ef1-f33a-4e9a-99f5-f22d13ea2716" />
+
+
+### Lista de agendamentos
+<img width="724" height="85" alt="Agendamentobarbeiro" src="https://github.com/user-attachments/assets/5fa70da7-0145-4303-bbba-047e44c0822c" />
+
+
+## 📚 Aprendizados
+### Durante o desenvolvimento deste projeto, pratiquei:
+
+### Organização do código em classes separadas.
+
+### Uso de relacionamento entre objetos (Barbeiro, Cliente, Agendamento).
+
+### Implementação de métodos de autenticação.
+
+### Laços de repetição para criar menus dinâmicos.
+
+### Manipulação de listas (ArrayList) para armazenar dados.
+
+## 📦 Como executar
 Clone este repositório:
 
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/Sistema-Barbearia-Java.git
-Abra o projeto em uma IDE (Eclipse, IntelliJ, NetBeans, etc.).
+git clone https://github.com/SeuUsuario/SeuRepositorio.git
+Abra o projeto em sua IDE favorita.
 
-Compile e execute a classe principal (Main.java).
+Compile e execute o arquivo Main.java.
 
-🎯 Aprendizados
-Durante o desenvolvimento deste projeto, aprendi e pratiquei:
-
-Implementação de autenticação de usuários.
-
-Estruturação de código usando POO.
-
-Encapsulamento e boas práticas de organização.
-
-Uso de listas e iteração para gerenciamento de dados.
-
-Criação de menus interativos em console.
+## 💬 Gostou?
+Se tiver sugestões de melhorias, abra uma issue ou envie um pull request.
