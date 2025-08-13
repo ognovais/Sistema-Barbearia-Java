@@ -57,7 +57,7 @@ Esse projeto foi feito como prática de Programação Orientada a Objetos (POO),
 ## 📦 Como executar
 Clone este repositório:
 
-git clone https://github.com/SeuUsuario/SeuRepositorio.git
+git clone https://github.com/ognovais/Sistema-Barbearia-Java
 
 Abra o projeto em sua IDE favorita.
 
