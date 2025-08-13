@@ -57,10 +57,8 @@ Esse projeto foi feito como prática de Programação Orientada a Objetos (POO),
 ## 📦 Como executar
 Clone este repositório:
 
-bash
-Copiar
-Editar
 git clone https://github.com/SeuUsuario/SeuRepositorio.git
+
 Abra o projeto em sua IDE favorita.
 
 Compile e execute o arquivo Main.java.
